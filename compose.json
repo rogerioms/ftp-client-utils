@@ -1,0 +1,14 @@
+{
+	"name": "rogerioms/ftp-client-utils",
+	"description": "FTP client library",
+	"keywords": ["ftp","php"],
+	"homepage": "https://github.com/rogerioms/ftp-client-utils",
+	"authors": [
+		{
+			"name": "Rogério Spina"
+		}
+	],
+	"autoload": {
+		"classmap": ["src/"]
+	}
+}
