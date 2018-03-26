@@ -59,5 +59,9 @@ class Ftp{
 	public function close(){
 		ftp_close($this->conn);
 	}
+
+	public function fileSize($file){
+		return ftp_size($this->conn, $file);
+	}
 }
 
