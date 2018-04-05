@@ -14,5 +14,8 @@
 	},
 	"autoload": {
 		"psr-0": {"FtpClient": "src/"}
+	},
+	"require-dev": {
+		"phpunit/phpunit": "7"
 	}
 }

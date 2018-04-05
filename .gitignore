@@ -154,3 +154,5 @@ fabric.properties
 # Others
 *.log
 /logs
+composer.lock
+ftp-client-utils.sublime-project
